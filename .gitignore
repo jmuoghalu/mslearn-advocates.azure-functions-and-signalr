@@ -332,3 +332,6 @@ ASALocalRun/
 **/temp.json
 **/dist
 **/.env
+
+# Secrets
+*.resource-secrets.txt
